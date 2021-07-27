@@ -16,6 +16,11 @@
 
   <properties>
 
+    <!-- SonarCloud properties -->
+    <sonar.projectKey>michaelshire_spring-petclinic</sonar.projectKey>
+    <sonar.organization>michaelshire</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    
     <!-- Generic properties -->
     <java.version>1.8</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
